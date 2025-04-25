@@ -1,53 +1,5 @@
 This is README file.
 
-* Tables
-
-Run the javascript below on the console.
-
-```
-str = ''
-for(i=0;i<30;i++){
-    tmp = document.getElementsByTagName("table")[i].parentElement.firstElementChild.innerText+'\n'
-    str = str + tmp 
-}
-console.log(str)
-```
-
-Console log is below:
-
-```
-Special Case: Primitive Types
-Default Values for Primitive Members
-Abstract Classes vs. Interfaces
-Functional Interfaces
-Function Composition
-Operations on Strings
-Formatter Conversions
-Creating Regular Expressions
-Creating Regular Expressions
-Creating Regular Expressions
-Creating Regular Expressions
-Quantifiers
-Pattern Flags
-Class Literals
-Meta-Annotations
-Types of InputStream
-Types of OutputStream
-Reading from an InputStream with FilterInputStream
-Writing to an OutputStream with FilterOutputStream
-Sources and Sinks of Data
-Modifying Stream Behavior
-Unchanged Classes
-Buffer Details
-Overriding hashCode()
-Collection Functionality
-Sets and Storage Order
-Performance
-Utilities
-Appendix: Data Compression
-Java Archives (Jars)
-```
-
 
 # split4.py
 
